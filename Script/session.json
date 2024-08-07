@@ -1,0 +1,41 @@
+{
+    "/Script/home.html": [
+        {
+            "timestamp": "2024-08-05T12:57:16.047Z",
+            "element": "BUTTON",
+            "textContent": "Admin",
+            "x": 41,
+            "y": 165
+        },
+        {
+            "timestamp": "2024-08-06T06:08:45.700Z",
+            "element": "BUTTON",
+            "textContent": "Submit",
+            "x": 37,
+            "y": 559
+        },
+        {
+            "timestamp": "2024-08-06T06:08:50.523Z",
+            "element": "BUTTON",
+            "textContent": "Go To Next Page",
+            "x": 107,
+            "y": 703
+        }
+    ],
+    "/Script/next_page.html": [
+        {
+            "timestamp": "2024-08-05T12:58:38.871Z",
+            "element": "BUTTON",
+            "textContent": "click here",
+            "x": 58,
+            "y": 93
+        },
+        {
+            "timestamp": "2024-08-05T12:59:01.291Z",
+            "element": "BUTTON",
+            "textContent": "click here",
+            "x": 55,
+            "y": 85
+        }
+    ]
+}
